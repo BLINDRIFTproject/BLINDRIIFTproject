@@ -37,7 +37,7 @@ Building a fully sound-guided drift experience is a challenge, but with the righ
 If you have experience in **Assetto Corsa app development (Python/Lua)** or **audio design for sim racing**, I would love to work together!
 
 ### 📩 How to Connect:
-* **Instagram:** [@blinddrift_project](https://www.instagram.com/blinddrift_project)
+* **Instagram:** [@blindrift_project](https://www.instagram.com/blinddrift_project)
 * **Email:** brignanimichele99@gmail.com
 * **Support the Project:** [buymeacoffee.com/blinddrift](https://buymeacoffee.com/blinddrift)
 
